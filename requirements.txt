@@ -105,8 +105,8 @@ pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==7.1.2
 plotly==4.10.0
-powerline-gitstatus==1.3.1
-powerline-status===2.8.1.dev9999-git.b-da3ed7e720b2e1d487882ccb701d5301faa4d2e2-
+#powerline-gitstatus==1.3.1
+#powerline-status===2.8.1.dev9999-git.b-da3ed7e720b2e1d487882ccb701d5301faa4d2e2-
 prettytable==0.7.2
 prometheus-client==0.9.0
 prompt-toolkit==3.0.16
@@ -128,7 +128,7 @@ python-slugify==4.0.0
 pytz==2020.1
 PyYAML==5.1.2
 pyzmq==22.0.3
-request==1.0.117
+request
 requests==2.23.0
 requests-ntlm==1.1.0
 requests-oauthlib==1.3.0
